@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="32"
+     height="32"
+     viewBox="0 0 32 32"
+     fill="none"
+     stroke="#ffffff"
+     stroke-width="2"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+  <!-- Worker -->
+  <circle cx="8" cy="11" r="2.5" />
+  <path d="M5 18c0-2 1.5-3.5 3-3.5s3 1.5 3 3.5" />
+
+  <!-- Arms reaching to box -->
+  <path d="M10 15l4 3" />
+  <path d="M10 17l4 1" />
+
+  <!-- Packing Table -->
+  <path d="M12 20h16" />
+  <path d="M14 20v6" />
+  <path d="M26 20v6" />
+
+  <!-- Box being packed -->
+  <rect x="16" y="13" width="8" height="7" rx="1" />
+  <path d="M16 16.5h8" />
+  <path d="M20 13v7" />
+
+</svg>
+
